@@ -1,4 +1,4 @@
-# Paleobotanical methods used in modern ecosystems show an increase in insect herbivory on dicot leaves, unlike any other geologic period. 
+# Modern insect herbivory is greater than the past 66.8 Ma highlighting the importance of human influence on plant-insect interactions
 
 Authors: Lauren Azevedo-Schmidt<sup>1*</sup> and Ellen D. Currano<sup>1,2</sup>
 
