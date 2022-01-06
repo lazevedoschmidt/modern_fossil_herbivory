@@ -5,7 +5,7 @@ Authors: Lauren Azevedo-Schmidt<sup>1*</sup>, Emily Meineke<sup>2</sup>, Ellen D
 Affiliations:\
 <sup>1</sup>Department of Botany, University of Wyoming, 1000 E. University Ave, Laramie, WY 82071 \
 <sup>2</sup>Department of Entomology and Nematology, University of California Davis, One Shield's Ave, Davis CA 95616 \
-<sup>3</sup>Department of Geology & Geophysics, University of Wyoming, 1000 E. University Ave, Laramie, WY 82071 \
+<sup>3</sup>Department of Geology & Geophysics, University of Wyoming, 1000 E. University Ave, Laramie, WY 82071 
 
 Keywords: Plant-insect interactions, Paleobotany, Leaf compression fossils, Climate change 
 
