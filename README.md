@@ -1,6 +1,6 @@
 # Insect herbivory within modern forests is greater than fossil localities due to human influence
 
-Authors: Lauren Azevedo-Schmidt<sup>1*</sup>, Emily Meineke<sup>2<\sup>, Ellen D. Currano<sup>1,3</sup>
+Authors: Lauren Azevedo-Schmidt<sup>1*</sup>, Emily Meineke<sup>2</sup>, Ellen D. Currano<sup>1,3</sup>
 
 Affiliations:\
 <sup>1</sup>Department of Botany, University of Wyoming, 1000 E. University Ave, Laramie, WY 82071 \
