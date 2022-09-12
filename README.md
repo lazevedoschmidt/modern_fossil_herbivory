@@ -1,6 +1,6 @@
 # Insect herbivory within modern forests is greater than fossil localities
 
-Authors: Lauren Azevedo-Schmidt<sup>a,b*</sup>, Emily Meineke<sup>c</sup>, Ellen D. Currano<sup>b,d</sup>
+Authors: Lauren Azevedo-Schmidt<sup>a,b*</sup>, Emily K. Meineke<sup>c</sup>, Ellen D. Currano<sup>b,d</sup>
 
 Affiliations:\
 <sup>a</sup>Climate Change Institute, University of Maine, 168 College Ave, Orono, ME 04469 \
