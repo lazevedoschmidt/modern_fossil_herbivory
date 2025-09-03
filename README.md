@@ -10,4 +10,6 @@ Affiliations:\
 
 Keywords: Plant-insect interactions, Paleobotany, Leaf compression fossils, Climate change 
 
+The authors have added a downloadable "Directory Contents" document that clearly explains the data files, plant species abbreviations, all R code including the code necessary for recreated our summary datasets ("Finalized.Database.forests.csv" and "Finalized.Database.forests_litter.added.csv"), the location of supplementary files, and appropriate references. 
+
 The authors request that any data or code used from this publication be properly cited and recognized in future work. 
